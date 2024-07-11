@@ -24,5 +24,8 @@
     * Data Documentation
     * Data Linear
 
+## Sprint 3: ( coming soon )
+### Data Visualization with Apache Dataset
+
 
 
